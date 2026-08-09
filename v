@@ -1,4 +1,4 @@
-{"spider": "./jar/x.jar",
+{"spider": "./jar/v.jar",
 "logo": "./logo.png",
 "wallpaper": "http://ic.top",
 "sites": [
@@ -27,7 +27,7 @@
 },
 {"key": "csp_SP360","name": "360｜影视","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1
 },
-{"key":"动漫巴士","name":"动漫｜巴士","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/raw.githubusercontent.com/yoursmile66/TVBox/main/json/动漫巴士.json"},
+{"key":"动漫巴士","name":"动漫｜巴士","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./kwai/动漫巴士.json"},
 {"name":"囧途｜动漫","key":"DMcyc","type":3,"api":"csp_DMcycAmns","searchable":1,"quickSearch":1,"changeable":0,"jar":"./jar/x.jar"},
 {"name":"番薯｜动漫","key":"DMfans","type":3,"api":"csp_DMfansAmns","searchable":1,"quickSearch":1,"changeable":0,"jar":"./jar/x.jar"},
 {"name": "豪堪｜短剧","key": "HHkk","type": 3,"api": "csp_HHkkAmns","playerType": 2,"searchable": 1,"filterable": 1,"quickSearch": 1,"changeable": 1,"genre": "shortdrama","jar": "./jar/x.jar"
