@@ -1,12 +1,10 @@
 {"spider": "https://ghproxy.net/raw.githubusercontent.com/vxiaomi/live/refs/heads/main/jar/x.jar",
 "logo": "./logo.png",
-"wallpaper": "./ic.top",
+"wallpaper": "http://ic.top",
 "sites": [
 {"key": "love","name": "爱无｜止境","type": 3,"api": "csp_TTian","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "7lj763gg0939791h1l3888jig44gi291li"
 },
 {"name":"瓜子┃影视","key":"Guazi","type":3,"api":"csp_GuaziAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":{"sites":"","filters":"https://file.icve.com.cn/file_doc/822/528/CD984013F5776F759DFC815995F87BFB.aowu"},"jar":"https://ghproxy.net/raw.githubusercontent.com/vxiaomi/live/refs/heads/main/jar/dj.jar"
-},
-{"key": "农牧","name": "农牧｜影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./kwai/农牧影视.json"
 },
 {"key": "金牌","name": "金牌｜影视","type": 3,"api": "csp_Jpys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
 },
@@ -20,6 +18,8 @@
 },
 {"name":厂长┃影视,"key":"Czzy","type":3,"api":"csp_CzzyAmns","searchable":1,"filterable":1,"quickSearch":1,"ext":{"sites":"https://www.4kcz.com,https://www.cz4k.com,https://czzy.top","filters":""},"jar":"https://ghproxy.net/raw.githubusercontent.com/vxiaomi/live/refs/heads/main/jar/dj.jar"},
 {"key": "csp_Dygang","name": "影港｜影视","type": 3,"api": "csp_Dygang","searchable": 1,"quickSearch": 1,"filterable": 1
+},
+{"key": "农牧","name": "农牧｜影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./kwai/农牧影视.json"
 },
 {"key": "农民","name": "农民｜影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./kwai/农民影视.js"
 },
