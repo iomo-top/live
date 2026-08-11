@@ -1,4 +1,4 @@
-{"spider": "./jar/v.jar",
+{"spider": "https://gh-proxy.com/raw.githubusercontent.com/vxiaomi/live/refs/heads/main/jar/v.jar",
 "logo": "./logo.png",
 "wallpaper": "http://ic.top",
 "sites": [
