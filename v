@@ -1,10 +1,10 @@
-{"spider": "https://gh-proxy.com/raw.githubusercontent.com/vxiaomi/live/refs/heads/main/jar/v.jar",
+{"spider": "https://gh-proxy.com/https://raw.githubusercontent.com/vxiaomi/live/refs/heads/main/jar/v.jar",
 "logo": "./logo.png",
-"wallpaper": "http://ic.top",
+"wallpaper": "http://ico.top",
 "sites": [
 {"key": "love","name": "爱无｜止境","type": 3,"api": "csp_TTian","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "7lj763gg0939791h1l3888jig44gi291li"
 },
-{"name":"瓜子┃影视","key":"Guazi","type":3,"api":"csp_GuaziAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":{"sites":"","filters":"https://file.icve.com.cn/file_doc/822/528/CD984013F5776F759DFC815995F87BFB.aowu"},"jar":"./jar/x.jar"
+{"name":"瓜子｜影视","key":"csp_Guazi","type":3,"api":"csp_GuaziAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"Guazi","jar":"./jar/x.jar"
 },
 {"key": "金牌","name": "金牌｜影视","type": 3,"api": "csp_Jpys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
 },
@@ -15,6 +15,10 @@
 {"key": "斗鱼js","name": "斗鱼｜直播","type": 3,"api": "./kwai/drpy22.min.js","ext": "./kwai/斗鱼.js","style": {"type": "rect","ratio": 1.755},"playerType": "2","searchable": 0,"quickSearch": 0,"changeable": 0},
 {"key":"首发","name":"首发┃影视","type":3,"api":"csp_Qiji","ext":"7lj763gg402i7942483l849kk10ljji4g6li98059ijj72225j5255l2k95g5i1h1g985ggj905j86ig3604gi80lgl30jk3hk637h53ghk49hgl689125k7738h7947igg3k5h3gk6j12718k402802hlkh6k527581gk4936hkj49i8i9g2hh53l320l3i3197"},
 {"key": "王子","name": "王子｜影视","type": 3,"api": "csp_Xdai","ext": "7lj763gg402i7942503g9g9jk909jji3g0li9j088291253h4k141gggkk41435h43924kg6ik48i0856j01k882glkh4kllg538704jl5k4j1gl27j321g03lll"
+},
+{"key": "荐片","name": "荐片 | 影视","type": 3,"api": "./kwai/荐片.js"
+},
+{key": "非凡","name": "非凡 | 采集","type": 1,"api": "https://cj.ffzyapi.com/api.php/provide/vod/","quickSearch": 1,"searchable": 1,"changeable": 1,"categories": ["动作片","喜剧片","爱情片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","国产动漫","日韩动漫","欧美动漫","伦理片","短剧"]
 },
 {"name":厂长┃影视,"key":"Czzy","type":3,"api":"csp_CzzyAmns","searchable":1,"filterable":1,"quickSearch":1,"ext":{"sites":"https://www.4kcz.com,https://www.cz4k.com,https://czzy.top","filters":""},"jar":"./jar/x.jar"},
 {"key": "csp_Dygang","name": "影港｜影视","type": 3,"api": "csp_Dygang","searchable": 1,"quickSearch": 1,"filterable": 1
